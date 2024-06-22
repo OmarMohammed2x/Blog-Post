@@ -1,0 +1,11 @@
+body > .Posts .post-img{
+    width: 100%;
+    border-radius: 10px;
+   
+}
+body > .container .ava{
+    height: 190px;
+    width: 190px;
+    max-width: 100%;
+    border-radius: 100%;
+}
